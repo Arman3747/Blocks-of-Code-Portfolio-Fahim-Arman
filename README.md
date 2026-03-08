@@ -50,14 +50,7 @@ const developerProfile = {
       "React", "Redux", "React Router", "Recharts", "React Hook Form", "Leaflet", "Swiper",
       "Next.js"],
 
-    backend: [
-      "Node.js",
-      "Express.js",
-      "REST APIs",
-      "Passport.js",
-      "JWT Authentication",
-      "Socket.IO",
-    ],
+    backend: ["Node.js", "Express.js", "REST APIs", "Passport.js", "JWT Authentication"],
 
     databases: ["MongoDB", "PostgreSQL", "Redis", "MySQL", "SQLite"],
 
@@ -106,28 +99,16 @@ const developerProfile = {
     {
       projectName: "Blood Connect - Blood Donation Web Application",
       type: "MERN Stack",
-
       description: `A blood donation platform that connects donors, volunteers, 
                     and administrators to manage donation requests efficiently.`,
-
       features: [
         "Role-based dashboards with Firebase and JWT authentication",
         "Donation request management with location-based donor search",
         "Stripe payment integration and real-time notifications",
         "Responsive UI with Tailwind CSS and optimized API calls using TanStack Query",
       ],
-
-      techStack: [
-        "React",
-        "JavaScript",
-        "Tailwind CSS",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Firebase Auth",
-        "JWT",
-      ],
-
+      techStack: ["React", "JavaScript", "Tailwind CSS", 
+                  "Node.js", "Express.js", "MongoDB", "Firebase Auth"],
       links: {
         live: "https://bloodconnect-3e8aa.web.app/",
         client: "https://github.com/Arman3747/BloodConnect-Client",
