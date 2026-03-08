@@ -130,9 +130,9 @@ const developerProfile = {
       ],
 
       links: {
-        live: "LIVE_LINK",
-        client: "CLIENT_GITHUB_LINK",
-        server: "SERVER_GITHUB_LINK",
+        live: "https://bloodconnect-3e8aa.web.app/",
+        client: "https://github.com/Arman3747/BloodConnect-Client",
+        server: "https://github.com/Arman3747/BloodConnect-Server",
       },
     },
 
@@ -162,9 +162,9 @@ const developerProfile = {
       ],
 
       links: {
-        live: "LIVE_LINK",
-        client: "CLIENT_GITHUB_LINK",
-        server: "SERVER_GITHUB_LINK",
+        live: "https://rad-daffodil-39264b.netlify.app/",
+        client: "https://github.com/Arman3747/B2Bridge-client",
+        server: "https://github.com/Arman3747/B2Bridge-server",
       },
     },
 
@@ -193,9 +193,9 @@ const developerProfile = {
       ],
 
       links: {
-        live: "LIVE_LINK",
-        client: "CLIENT_GITHUB_LINK",
-        server: "SERVER_GITHUB_LINK",
+        live: "https://fascinating-sunflower-cfec7f.netlify.app/",
+        client: "https://github.com/Arman3747/roomies-client",
+        server: "https://github.com/Arman3747/roomies-server",
       },
     },
 
@@ -222,9 +222,9 @@ const developerProfile = {
       ],
 
       links: {
-        live: "LIVE_LINK",
-        client: "CLIENT_GITHUB_LINK",
-        server: "SERVER_GITHUB_LINK",
+        live: "https://nextproduct-sand.vercel.app/",
+        client: "https://github.com/Arman3747/NextProduct",
+        server: "https://github.com/Arman3747/NextProduct",
       },
     },
   ],
