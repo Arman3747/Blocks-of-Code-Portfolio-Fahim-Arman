@@ -1,14 +1,22 @@
 ![Portfolio-Fahim-Arman](https://i.ibb.co/q4JVzzR/Fahim-Arman-Blocks-of-Code-02.png)
 
+```javascript
+const FahimArman = {
+  code: ["JavaScript", "TypeScript"],
+  stack: ["MERN", "PERN", "Next.js"],
+  challenge: "Turning ideas into scalable web applications",
+  funFact: "I turn coffee ☕ into code",
+};
+```
 
 ```javascript
 const developerProfile = {
-
+  
   name: "Fahim Arman",
 
   role: "Full Stack JavaScript Developer",
 
-  specialization: ["MERN Stack", "PERN Stack"],
+  specialization: ["MERN Stack", "PERN Stack", "Next.js"],
 
   tagline:
     "Building scalable, high-performance web applications with modern JavaScript technologies.",
@@ -40,17 +48,20 @@ const developerProfile = {
     languages: ["JavaScript", "TypeScript", "SQL", "HTML5", "CSS3", "EJS"],
 
     frontend: [
-      "React",
-      "Next.js",
-      "React Router",
+      "HTML5",
+      "CSS3",
       "Tailwind CSS",
-      "DaisyUI",
       "shadcn/ui",
-      "Bootstrap",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Redux",
+      "React Router",
       "Recharts",
       "React Hook Form",
       "Leaflet",
       "Swiper",
+      "Next.js",
     ],
 
     backend: [
@@ -69,6 +80,8 @@ const developerProfile = {
     validation: ["Zod"],
 
     authentication: ["Firebase Auth", "NextAuth.js", "JWT"],
+
+    orm_odm: ["Mongoose", "Prisma"],
   },
 
   developmentEnvironment: {
@@ -81,7 +94,7 @@ const developerProfile = {
 
   education: [
     {
-      degree: "Professional year",
+      degree: "Professional Year",
       field: "Information Technology",
       university: "Performance Education",
       location: "Sydney, Australia",
@@ -105,7 +118,7 @@ const developerProfile = {
 
   projects: [
     {
-      name: "Blood Connect - Blood Donation Web Application",
+      projectName: "Blood Connect - Blood Donation Web Application",
       type: "MERN Stack",
 
       description: `A blood donation platform that connects donors, volunteers, and administrators to 
@@ -137,7 +150,7 @@ const developerProfile = {
     },
 
     {
-      name: "B2Bridge - B2B wholesale marketplace",
+      projectName: "B2Bridge - B2B wholesale marketplace",
       type: "MERN Stack",
 
       description:
@@ -169,7 +182,7 @@ const developerProfile = {
     },
 
     {
-      name: "Roomies - Roommate Finder Website",
+      projectName: "Roomies - Roommate Finder Website",
       type: "MERN Stack",
 
       description:
@@ -200,7 +213,7 @@ const developerProfile = {
     },
 
     {
-      name: "NextProduct - Product Management Web Application",
+      projectName: "NextProduct - Product Management Web Application",
       type: "Next.js Application",
 
       description:
