@@ -34,6 +34,7 @@ const developerProfile = {
           applications.`,
 
   coreStack: {
+    languages: ["JavaScript", "TypeScript"],
     frontend: ["React.js", "Next.js", "Tailwind CSS", "shadcn/ui"],
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "PostgreSQL", "Redis"],
