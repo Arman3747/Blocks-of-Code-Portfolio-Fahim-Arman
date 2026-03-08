@@ -11,15 +11,14 @@ const FahimArman = {
 
 ```javascript
 const developerProfile = {
-  
+
   name: "Fahim Arman",
 
   role: "Full Stack JavaScript Developer",
 
   specialization: ["MERN Stack", "PERN Stack", "Next.js"],
 
-  tagline:
-    "Building scalable, high-performance web applications with modern JavaScript technologies.",
+  tagline: "Building scalable and modern web applications with MERN, PERN, and Next.js.",
 
   location: "Sydney, Australia",
 
@@ -121,8 +120,8 @@ const developerProfile = {
       projectName: "Blood Connect - Blood Donation Web Application",
       type: "MERN Stack",
 
-      description: `A blood donation platform that connects donors, volunteers, and administrators to 
-        manage donation requests efficiently.`,
+      description: `A blood donation platform that connects donors, volunteers, 
+                    and administrators to manage donation requests efficiently.`,
 
       features: [
         "Role-based dashboards with Firebase and JWT authentication",
@@ -153,8 +152,8 @@ const developerProfile = {
       projectName: "B2Bridge - B2B wholesale marketplace",
       type: "MERN Stack",
 
-      description:
-        "A B2B wholesale marketplace connecting manufacturers, brands, wholesalers, and retailers.",
+      description: `A B2B wholesale marketplace connecting manufacturers, 
+                    brands, wholesalers, and retailers.`,
 
       features: [
         "JWT authentication with email/password and Google login",
@@ -185,8 +184,8 @@ const developerProfile = {
       projectName: "Roomies - Roommate Finder Website",
       type: "MERN Stack",
 
-      description:
-        "A roommate finder and rental listing platform that helps users find shared housing easily.",
+      description: `A roommate finder and rental listing platform that helps 
+                    users find shared housing easily.`,
 
       features: [
         "Room listing and roommate search functionality",
@@ -216,8 +215,8 @@ const developerProfile = {
       projectName: "NextProduct - Product Management Web Application",
       type: "Next.js Application",
 
-      description:
-        "A product management web application built with Next.js for browsing and managing products.",
+      description: `A product management web application built with Next.js 
+                    for browsing and managing products.`,
 
       features: [
         "Secure authentication with NextAuth.js and Google login",
