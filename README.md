@@ -16,24 +16,19 @@ const developerProfile = {
   location: "Available for Remote Opportunities",
 
   about: `
-  I am a passionate Full Stack Developer specializing in the MERN and PERN stack.
-  I enjoy building scalable, responsive, and user-friendly web applications using
-  modern technologies like React.js, Next.js, Node.js, MongoDB, and PostgreSQL.
+  I am a passionate Full Stack Developer specializing in the MERN and PERN stack. I enjoy building scalable, responsive, and user-friendly web applications using modern technologies like React.js, Next.js, Node.js, MongoDB, and PostgreSQL.
 
-  I focus on writing clean, maintainable code and creating intuitive user interfaces.
-  I also work with modern tools like Prisma ORM for database management and Redux
-  for scalable state management.
+  I focus on writing clean, maintainable code and creating intuitive user interfaces. I also work with modern tools like Prisma ORM for database management and Redux for scalable state management.
 
-  My goal is to develop high-performance applications while continuously learning
-  new technologies and collaborating with teams to solve real-world problems.
-  `,
+  My goal is to develop high-performance applications while continuously learning new technologies and collaborating with teams to solve real-world problems.
+    `,
 
   coreStack: {
     frontend: ["React.js", "Next.js", "Tailwind CSS"],
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "PostgreSQL", "Redis"],
     stateManagement: ["Redux"],
-    orm: ["Prisma", "Mongoose"]
+    orm: ["Prisma", "Mongoose"],
   },
 
   skills: {
@@ -50,7 +45,7 @@ const developerProfile = {
       "Recharts",
       "React Hook Form",
       "Leaflet",
-      "Swiper"
+      "Swiper",
     ],
 
     backend: [
@@ -59,61 +54,40 @@ const developerProfile = {
       "REST APIs",
       "Passport.js",
       "JWT Authentication",
-      "Socket.IO"
+      "Socket.IO",
     ],
 
-    databases: [
-      "MongoDB",
-      "PostgreSQL",
-      "Redis",
-      "MySQL",
-      "SQLite"
-    ],
+    databases: ["MongoDB", "PostgreSQL", "Redis", "MySQL", "SQLite"],
 
-    tools: [
-      "Git",
-      "GitHub",
-      "Postman",
-      "Vite",
-      "NPM",
-      "Chrome DevTools"
-    ],
+    tools: ["Git", "GitHub", "Postman", "Vite", "NPM", "Chrome DevTools"],
 
     validation: ["Zod"],
 
-    authentication: ["Firebase Auth", "NextAuth.js", "JWT"]
+    authentication: ["Firebase Auth", "NextAuth.js", "JWT"],
   },
 
   developmentEnvironment: {
     operatingSystems: ["Windows", "Linux", "Ubuntu", "Debian"],
     designTools: ["Figma", "Pixso", "Canva"],
-    productivityTools: ["Notion"]
+    productivityTools: ["Notion"],
   },
 
-  deployment: [
-    "Vercel",
-    "Netlify",
-    "Firebase"
-  ],
+  deployment: ["Vercel", "Netlify", "Firebase"],
 
   principles: [
     "Clean Code",
     "Scalable Architecture",
     "Performance Optimization",
-    "User-Centered Design"
+    "User-Centered Design",
   ],
 
-  mindset: [
-    "Problem Solver",
-    "Continuous Learner",
-    "Team Collaborator"
-  ],
+  mindset: ["Problem Solver", "Continuous Learner", "Team Collaborator"],
 
   education: {
     university: "Your University Name",
     degree: "Bachelor's Degree",
     location: "City, Country",
-    duration: "Start Year - End Year"
+    duration: "Start Year - End Year",
   },
 
   projects: [
@@ -126,10 +100,10 @@ const developerProfile = {
         "User authentication",
         "Room listing management",
         "Search and filtering",
-        "Responsive UI"
+        "Responsive UI",
       ],
       github: "https://github.com/your-repo",
-      live: "https://your-project-link.com"
+      live: "https://your-project-link.com",
     },
 
     {
@@ -140,10 +114,10 @@ const developerProfile = {
       features: [
         "Doctor availability scheduling",
         "Appointment booking",
-        "Secure authentication"
+        "Secure authentication",
       ],
       github: "https://github.com/your-repo",
-      live: "https://your-project-link.com"
+      live: "https://your-project-link.com",
     },
 
     {
@@ -151,31 +125,26 @@ const developerProfile = {
       description:
         "A marketplace platform where users can post and browse products.",
       stack: ["React", "Express", "MongoDB"],
-      features: [
-        "Product listing",
-        "Dashboard analytics",
-        "Search and filter"
-      ],
+      features: ["Product listing", "Dashboard analytics", "Search and filter"],
       github: "https://github.com/your-repo",
-      live: "https://your-project-link.com"
-    }
+      live: "https://your-project-link.com",
+    },
   ],
 
   contact: {
     email: "your-email@example.com",
     phone: "your-phone-number",
-    whatsapp: "your-whatsapp-number"
+    whatsapp: "your-whatsapp-number",
   },
 
   social: {
     github: "https://github.com/your-username",
     linkedin: "https://linkedin.com/in/your-profile",
-    instagram: "https://instagram.com/your-username"
-  }
+    instagram: "https://instagram.com/your-username",
+  },
 };
-
 ```
----
 
+---
 
 ### Thank you for Reading!
