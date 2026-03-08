@@ -189,3 +189,24 @@ const developerProfile = {
   },
 };
 ```
+
+```javascript
+const life = () => {
+  while (true) {
+    eat();
+    sleep();
+    code();
+  }
+};
+```
+
+```javascript
+const FahimArman = () => {
+  while (alive) {
+    drinkCoffee();
+    writeCode();
+    buildProjects();
+    learnNewTech();
+  }
+};
+```
