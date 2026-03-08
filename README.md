@@ -46,22 +46,9 @@ const developerProfile = {
   skills: {
     languages: ["JavaScript", "TypeScript", "SQL", "HTML5", "CSS3", "EJS"],
 
-    frontend: [
-      "HTML5",
-      "CSS3",
-      "Tailwind CSS",
-      "shadcn/ui",
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "Redux",
-      "React Router",
-      "Recharts",
-      "React Hook Form",
-      "Leaflet",
-      "Swiper",
-      "Next.js",
-    ],
+    frontend: ["HTML5", "CSS3", "Tailwind CSS", "shadcn/ui", "JavaScript", "TypeScript",
+      "React", "Redux", "React Router", "Recharts", "React Hook Form", "Leaflet", "Swiper",
+      "Next.js"],
 
     backend: [
       "Node.js",
