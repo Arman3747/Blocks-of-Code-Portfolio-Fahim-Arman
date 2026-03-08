@@ -4,6 +4,7 @@
 
 ```javascript
 const developerProfile = {
+
   name: "Fahim Arman",
 
   role: "Full Stack JavaScript Developer",
@@ -13,14 +14,18 @@ const developerProfile = {
   tagline:
     "Building scalable, high-performance web applications with modern JavaScript technologies.",
 
-  location: "Available for Remote Opportunities",
+  location: "Sydney, Australia",
 
   about: `
-  I am a passionate Full Stack Developer specializing in the MERN and PERN stack. I enjoy building scalable, responsive, and user-friendly web applications using modern technologies like React.js, Next.js, Node.js, MongoDB, and PostgreSQL.
+    Full Stack JavaScript Developer specializing in the MERN, PERN, and Next.js stack.
+    I build scalable and user-friendly web applications using HTML, CSS, Tailwind CSS,
+    shadcn/ui, JavaScript, TypeScript, React, Redux, and Next.js.
 
-  I focus on writing clean, maintainable code and creating intuitive user interfaces. I also work with modern tools like Prisma ORM for database management and Redux for scalable state management.
+    On the backend, I develop APIs with Node.js and Express.js, working with databases
+    like MongoDB, PostgreSQL, and Redis using Mongoose and Prisma.
 
-  My goal is to develop high-performance applications while continuously learning new technologies and collaborating with teams to solve real-world problems.
+    I implement secure authentication with Firebase Auth and NextAuth.js, and use tools
+    like Git, GitHub, and Postman to maintain clean, scalable, and high-performance applications.
     `,
 
   coreStack: {
@@ -74,21 +79,29 @@ const developerProfile = {
 
   deployment: ["Vercel", "Netlify", "Firebase"],
 
-  principles: [
-    "Clean Code",
-    "Scalable Architecture",
-    "Performance Optimization",
-    "User-Centered Design",
-  ],
-
-  mindset: ["Problem Solver", "Continuous Learner", "Team Collaborator"],
-
-  education: {
-    university: "Your University Name",
+education: [
+  {
     degree: "Bachelor's Degree",
+    field: "Computer Science",
+    university: "Your University Name",
     location: "City, Country",
-    duration: "Start Year - End Year",
+    duration: "2020 - 2024"
   },
+  {
+    degree: "Master's Degree",
+    field: "Software Engineering",
+    university: "Your University Name",
+    location: "City, Country",
+    duration: "2024 - 2026"
+  },
+  {
+    degree: "Doctorate / Additional Degree",
+    field: "Computer Science",
+    university: "Your University Name",
+    location: "City, Country",
+    duration: "2026 - 2030"
+  }
+]
 
   projects: [
     {
