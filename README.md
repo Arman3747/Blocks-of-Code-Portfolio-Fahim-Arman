@@ -189,6 +189,7 @@ const developerProfile = {
   },
 };
 ```
+## Joke
 
 ```javascript
 const life = () => {
@@ -210,3 +211,17 @@ const FahimArman = () => {
   }
 };
 ```
+
+## Quote
+
+```javascript
+// Every expert was once a beginner
+
+while (!expert) {
+  learn();
+  practice();
+  buildProjects();
+}
+```
+
+
