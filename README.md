@@ -105,72 +105,11 @@ const developerProfile = {
 
   projects: [
     {
-      name: "Blood Connect - Blood Donation Web Application | MERN Stack",
-      description:
-        "A platform connecting donors, volunteers, and admins for efficient blood donation.",
-      stack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-      features: [
-        "User authentication",
-        "Room listing management",
-        "Search and filtering",
-        "Responsive UI",
-      ],
-      github: "https://github.com/your-repo",
-      live: "https://your-project-link.com",
-    },
-
-    {
-      name: "Healthcare Appointment System",
-      description:
-        "A doctor appointment booking system with scheduling and role-based access.",
-      stack: ["Next.js", "Prisma", "PostgreSQL", "TypeScript"],
-      features: [
-        "Doctor availability scheduling",
-        "Appointment booking",
-        "Secure authentication",
-      ],
-      github: "https://github.com/your-repo",
-      live: "https://your-project-link.com",
-    },
-
-    {
-      name: "Room Renting Platform",
-      description:
-        "A full-stack platform where users can post, browse, and manage rental listings.",
-      stack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-      features: [
-        "User authentication",
-        "Room listing management",
-        "Search and filtering",
-        "Responsive UI",
-      ],
-      github: "https://github.com/your-repo",
-      live: "https://your-project-link.com",
-    },
-
-    {
-      name: "Room Renting Platform",
-      description:
-        "A full-stack platform where users can post, browse, and manage rental listings.",
-      stack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-      features: [
-        "User authentication",
-        "Room listing management",
-        "Search and filtering",
-        "Responsive UI",
-      ],
-      github: "https://github.com/your-repo",
-      live: "https://your-project-link.com",
-    },
-  ],
-
-  projects: [
-    {
-      name: "Blood Connect",
+      name: "Blood Connect - Blood Donation Web Application",
       type: "MERN Stack",
 
-      description:
-        "A blood donation platform that connects donors, volunteers, and administrators to manage donation requests efficiently.",
+      description: `A blood donation platform that connects donors, volunteers, and administrators to 
+        manage donation requests efficiently.`,
 
       features: [
         "Role-based dashboards with Firebase and JWT authentication",
@@ -198,7 +137,7 @@ const developerProfile = {
     },
 
     {
-      name: "B2Bridge",
+      name: "B2Bridge - B2B wholesale marketplace",
       type: "MERN Stack",
 
       description:
@@ -230,7 +169,7 @@ const developerProfile = {
     },
 
     {
-      name: "Roomies",
+      name: "Roomies - Roommate Finder Website",
       type: "MERN Stack",
 
       description:
@@ -261,7 +200,7 @@ const developerProfile = {
     },
 
     {
-      name: "NextProduct",
+      name: "NextProduct - Product Management Web Application",
       type: "Next.js Application",
 
       description:
