@@ -5,7 +5,7 @@ const FahimArman = {
   code: ["JavaScript", "TypeScript"],
   stack: ["MERN", "PERN", "Next.js"],
   challenge: "Turning ideas into scalable web applications",
-  funFact: "I turn coffee ☕ into code",
+  motto: "Every expert was once a beginner"
 };
 ```
 
@@ -22,18 +22,16 @@ const developerProfile = {
 
   location: "Sydney, Australia",
 
-  about: `
-    Full Stack JavaScript Developer specializing in the MERN, PERN, and Next.js stack.
-    I build scalable and user-friendly web applications using HTML, CSS, Tailwind CSS,
-    shadcn/ui, JavaScript, TypeScript, React, Redux, and Next.js.
+  about: `Full Stack JavaScript Developer specializing in the MERN, PERN, and Next.js stack.
+          I build scalable and user-friendly web applications using HTML, CSS, Tailwind CSS,
+          shadcn/ui, JavaScript, TypeScript, React, Redux, and Next.js.
 
-    On the backend, I develop APIs with Node.js and Express.js, working with databases
-    like MongoDB, PostgreSQL, and Redis using Mongoose and Prisma.
+          On the backend, I develop APIs with Node.js and Express.js, working with databases
+          like MongoDB, PostgreSQL, and Redis using Mongoose and Prisma.
 
-    I implement secure authentication with Firebase Auth and NextAuth.js, and use tools
-    like Git, GitHub, and Postman to maintain clean, scalable, and high-performance
-    applications.
-    `,
+          I implement secure authentication with Firebase Auth and NextAuth.js, and use tools
+          like Git, GitHub, and Postman to maintain clean, scalable, and high-performance
+          applications.`,
 
   coreStack: {
     frontend: ["React.js", "Next.js", "Tailwind CSS", "shadcn/ui"],
