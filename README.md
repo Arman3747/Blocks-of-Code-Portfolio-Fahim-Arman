@@ -47,8 +47,8 @@ const developerProfile = {
     languages: ["JavaScript", "TypeScript", "SQL", "HTML5", "CSS3", "EJS"],
 
     frontend: ["HTML5", "CSS3", "Tailwind CSS", "shadcn/ui", "JavaScript", "TypeScript",
-      "React", "Redux", "React Router", "Recharts", "React Hook Form", "Leaflet", "Swiper",
-      "Next.js"],
+               "React", "Redux", "React Router", "Recharts", "React Hook Form", "Leaflet", 
+               "Next.js", "Swiper"],
 
     backend: ["Node.js", "Express.js", "REST APIs", "Passport.js", "JWT Authentication"],
 
@@ -119,28 +119,16 @@ const developerProfile = {
     {
       projectName: "B2Bridge - B2B wholesale marketplace",
       type: "MERN Stack",
-
       description: `A B2B wholesale marketplace connecting manufacturers, 
                     brands, wholesalers, and retailers.`,
-
       features: [
         "JWT authentication with email/password and Google login",
         "Product management with real-time inventory updates",
         "Smart product filtering by category, brand, rating, and MOQ",
         "Responsive UI with Tailwind CSS, DaisyUI, and interactive notifications",
       ],
-
-      techStack: [
-        "React",
-        "JavaScript",
-        "Tailwind CSS",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Firebase Auth",
-        "JWT",
-      ],
-
+      techStack: [ "React", "JavaScript", "Tailwind CSS",
+                   "Node.js", "Express.js", "MongoDB", "Firebase Auth"],
       links: {
         live: "https://rad-daffodil-39264b.netlify.app/",
         client: "https://github.com/Arman3747/B2Bridge-client",
@@ -151,27 +139,16 @@ const developerProfile = {
     {
       projectName: "Roomies - Roommate Finder Website",
       type: "MERN Stack",
-
       description: `A roommate finder and rental listing platform that helps 
                     users find shared housing easily.`,
-
       features: [
         "Room listing and roommate search functionality",
         "CRUD system with user-specific access control",
         "Analytics dashboard showing posts, likes, and engagement",
         "Responsive UI with dark/light theme support",
       ],
-
-      techStack: [
-        "React",
-        "JavaScript",
-        "Tailwind CSS",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "Firebase Auth",
-      ],
-
+      techStack: ["React", "JavaScript", "Tailwind CSS",
+                  "Node.js", "Express.js", "MongoDB", "Firebase Auth"],
       links: {
         live: "https://fascinating-sunflower-cfec7f.netlify.app/",
         client: "https://github.com/Arman3747/roomies-client",
@@ -182,25 +159,15 @@ const developerProfile = {
     {
       projectName: "NextProduct - Product Management Web Application",
       type: "Next.js Application",
-
       description: `A product management web application built with Next.js 
                     for browsing and managing products.`,
-
       features: [
         "Secure authentication with NextAuth.js and Google login",
         "Add and manage products with detailed information",
         "Modern UI built with Next.js App Router and Tailwind CSS",
       ],
-
-      techStack: [
-        "Next.js",
-        "React",
-        "JavaScript",
-        "Tailwind CSS",
-        "MongoDB",
-        "NextAuth.js",
-      ],
-
+      techStack: ["Next.js", "React", "JavaScript",
+                  "Tailwind CSS", "MongoDB", "NextAuth.js"],
       links: {
         live: "https://nextproduct-sand.vercel.app/",
         client: "https://github.com/Arman3747/NextProduct",
