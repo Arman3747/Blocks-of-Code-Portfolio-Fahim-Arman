@@ -1,9 +1,9 @@
-![Portfolio-Fahim-Arman](https://i.ibb.co/svTnYLLv/developer-512.jpg)
+![Portfolio-Fahim-Arman](https://i.ibb.co/MxjhX4Tw/Fahim-Arman-Blocks-of-Code.png)
 
-<!-- # Portfolio (Fahim Arman) -->
 
 ```javascript
 const developerProfile = {
+
   name: "Fahim Arman",
 
   role: "Full Stack JavaScript Developer",
@@ -242,7 +242,3 @@ const developerProfile = {
   },
 };
 ```
-
----
-
-### Thank you for Reading!
