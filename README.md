@@ -1,4 +1,4 @@
-![Portfolio-Fahim-Arman](https://i.ibb.co/sJVhym5k/Blocks-of-code-portfolio-06.png)
+![Portfolio-Fahim-Arman](https://i.ibb.co/xqSrXdSW/Blocks-of-code-portfolio-06.png)
 
 ```javascript
 const FahimArman = {
