@@ -1,7 +1,6 @@
-![Portfolio-Fahim-Arman](https://i.ibb.co/xqSrXdSW/Blocks-of-code-portfolio-06.png)
+![Blocks-of-Code-Portfolio-Fahim-Arman](https://raw.githubusercontent.com/Arman3747/Blocks-of-Code-Portfolio-Fahim-Arman/refs/heads/main/images/Github_banner_02.png)
 
 <!-- ![Fahim_Arman_Hero_Section](https://raw.githubusercontent.com/Arman3747/Arman3747/refs/heads/main/images/Fahim_Arman_Hero_Github_08.png) -->
-
 
 
 ```javascript
