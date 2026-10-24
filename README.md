@@ -1,6 +1,5 @@
 ![Blocks-of-Code-Portfolio-Fahim-Arman](https://raw.githubusercontent.com/Arman3747/Blocks-of-Code-Portfolio-Fahim-Arman/refs/heads/main/images/Github_banner_02.png)
 
-
 ```javascript
 const developerProfile = {
 
@@ -38,7 +37,7 @@ const developerProfile = {
     languages: ["JavaScript", "TypeScript", "SQL", "HTML5", "CSS3", "EJS"],
 
     frontend: ["HTML5", "CSS3", "Tailwind CSS", "shadcn/ui", "JavaScript", "TypeScript",
-               "React", "Redux", "React Router", "Recharts", "React Hook Form", "Leaflet", 
+               "React", "Redux", "React Router", "Recharts", "React Hook Form", "Leaflet",
                "Next.js", "Swiper"],
 
     backend: ["Node.js", "Express.js", "REST APIs", "Passport.js", "JWT Authentication"],
@@ -87,10 +86,28 @@ const developerProfile = {
   ],
 
   projects: [
+        {
+      projectName: "OpenNotes - Blogging Web Application",
+      type: "Next.js",
+      description: `OpenNotes is a full-stack blogging platform where users can create, share,
+                    and discover articles`,
+      features: [
+        " Developed a full-stack blogging platform with rich-text editing, image uploads, and category management."
+        "Implemented JWT authentication with HTTP-only cookies, email verification, password recovery, and role-based access control."
+        "Built responsive dashboards and customisable user profiles, with paginated post listings and permission-based content management"
+      ],
+      techStack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui",
+                  "Node.js", "Express.js", "PostgreSQL", "Prisma", "Zod", "JWT"],
+      links: {
+        live: "https://open-notes-client.vercel.app/",
+        client: "https://github.com/Arman3747/OpenNotes-Client",
+        server: "https://github.com/Arman3747/OpenNotes-Server",
+      },
+    },
     {
       projectName: "Blood Connect - Blood Donation Web Application",
       type: "MERN Stack",
-      description: `A blood donation platform that connects donors, volunteers, 
+      description: `A blood donation platform that connects donors, volunteers,
                     and administrators to manage donation requests efficiently.`,
       features: [
         "Role-based dashboards with Firebase and JWT authentication",
@@ -98,7 +115,7 @@ const developerProfile = {
         "Stripe payment integration and real-time notifications",
         "Responsive UI with Tailwind CSS and optimized API calls using TanStack Query",
       ],
-      techStack: ["React", "JavaScript", "Tailwind CSS", 
+      techStack: ["React", "JavaScript", "Tailwind CSS",
                   "Node.js", "Express.js", "MongoDB", "Firebase Auth"],
       links: {
         live: "https://bloodconnect-3e8aa.web.app/",
@@ -110,7 +127,7 @@ const developerProfile = {
     {
       projectName: "B2Bridge - B2B wholesale marketplace",
       type: "MERN Stack",
-      description: `A B2B wholesale marketplace connecting manufacturers, 
+      description: `A B2B wholesale marketplace connecting manufacturers,
                     brands, wholesalers, and retailers.`,
       features: [
         "JWT authentication with email/password and Google login",
@@ -130,7 +147,7 @@ const developerProfile = {
     {
       projectName: "Roomies - Roommate Finder Website",
       type: "MERN Stack",
-      description: `A roommate finder and rental listing platform that helps 
+      description: `A roommate finder and rental listing platform that helps
                     users find shared housing easily.`,
       features: [
         "Room listing and roommate search functionality",
@@ -150,7 +167,7 @@ const developerProfile = {
     {
       projectName: "NextProduct - Product Management Web Application",
       type: "Next.js Application",
-      description: `A product management web application built with Next.js 
+      description: `A product management web application built with Next.js
                     for browsing and managing products.`,
       features: [
         "Secure authentication with NextAuth.js and Google login",
@@ -180,6 +197,7 @@ const developerProfile = {
   },
 };
 ```
+
 ## Joke
 
 ```javascript
@@ -214,6 +232,3 @@ while (!expert) {
   buildProjects();
 }
 ```
-
-
-
