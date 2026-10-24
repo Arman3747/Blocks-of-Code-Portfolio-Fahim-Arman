@@ -98,7 +98,6 @@ const developerProfile = {
         "Added email verification and password recovery workflows.",
         "Built responsive dashboards and customisable user profiles."
         "Implemented paginated post listings and permission-based content management.",
-        
       ],
       techStack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui",
                   "Node.js", "Express.js", "PostgreSQL", "Prisma", "Zod", "JWT"],
