@@ -86,15 +86,19 @@ const developerProfile = {
   ],
 
   projects: [
-        {
+    {
       projectName: "OpenNotes - Blogging Web Application",
       type: "Next.js",
       description: `OpenNotes is a full-stack blogging platform where users can create, share,
                     and discover articles`,
       features: [
-        " Developed a full-stack blogging platform with rich-text editing, image uploads, and category management."
-        "Implemented JWT authentication with HTTP-only cookies, email verification, password recovery, and role-based access control."
-        "Built responsive dashboards and customisable user profiles, with paginated post listings and permission-based content management"
+        "Developed a full-stack blogging platform with rich-text editing.",
+        "Integrated image uploads and category management.",
+        "Implemented JWT authentication using HTTP-only cookies and role-based permissions.",
+        "Added email verification and password recovery workflows.",
+        "Built responsive dashboards and customisable user profiles."
+        "Implemented paginated post listings and permission-based content management.",
+        
       ],
       techStack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "shadcn/ui",
                   "Node.js", "Express.js", "PostgreSQL", "Prisma", "Zod", "JWT"],
